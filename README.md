@@ -5,7 +5,7 @@ An application of the code and the underlying methods are shown in the following
 
  https://arxiv.org/abs/2404.18941
 
-and further described in 
+and are further described in 
 
  https://www.mdpi.com/2076-3417/11/20/9710
  
